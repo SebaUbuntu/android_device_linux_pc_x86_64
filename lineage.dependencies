@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_linux_mainline-common",
+    "target_path": "device/linux/mainline-common"
+  }
+]
