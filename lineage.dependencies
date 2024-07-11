@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_device_linux_mainline-common",
+    "target_path": "device/linux/mainline-common"
+  },
+  {
+    "repository": "android_kernel_linux_pc_x86_64",
+    "target_path": "kernel/linux/pc_x86_64"
+  }
+]
